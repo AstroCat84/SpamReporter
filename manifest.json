@@ -1,0 +1,10 @@
+{
+  "name": "Spam Account Reporter",
+  "version": "1.0",
+  "description": "Report Spam Accounts on reddit",
+  "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+  "manifest_version": 2
+}
